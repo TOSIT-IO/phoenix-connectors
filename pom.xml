@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.apache.phoenix</groupId>
   <artifactId>phoenix-connectors</artifactId>
-  <version>6.0.0-0.0</version>
+  <version>6.0.0-1.0</version>
   <packaging>pom</packaging>
   <name>Apache Phoenix Connectors</name>
   <description>Connectors for third party libraries to access data stored in Phoenix/HBase</description>
